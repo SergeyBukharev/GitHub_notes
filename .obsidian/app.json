@@ -1,0 +1,9 @@
+{
+  "obsidianCss": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "Base",
+  "trashOption": "local",
+  "promptDelete": false
+}

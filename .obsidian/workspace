@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "fd94f3fde70cf9d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "107536cc25a33af4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Шаблоны для Obsidian.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cab001e99a5c2d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "d321290d3238544d",
+        "type": "tabs",
+        "dimension": 70.34412955465588,
+        "children": [
+          {
+            "id": "c633d5ca43e11cbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6be17e4e5f188590",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4069eb24b4a67c36",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a29b9fa1b4bf26e",
+        "type": "tabs",
+        "dimension": 29.655870445344124,
+        "children": [
+          {
+            "id": "0a88eda07337c3dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4be3abdc3927331b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd4be6a0d02fdf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60b76609e3f7ad23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Шаблоны для Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6cc939ad9f430cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Шаблоны для Obsidian.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "107536cc25a33af4",
+  "lastOpenFiles": [
+    "Base/Шаблоны для Obsidian.md",
+    "Base/Untitled.md",
+    "Base/Сценарии (Use Case) — tyter.md",
+    "Base/Tyter — приложение для создания историй.md",
+    "Base/JobsToBeDone.md",
+    "Base/00 Методы и инструкции.md",
+    "Base/00 Исследование рынка и аудитории — основы.md",
+    "Base/Версия 2.md",
+    "Base/Сценарий «Такси 6».md",
+    "Base/00 Сценарий Кино, Игры, Сериала.md"
+  ]
+}

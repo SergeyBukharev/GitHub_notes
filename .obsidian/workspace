@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Бизнес и менеджмент.md",
+            "file": "Base/00 Экономика.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a29b9fa1b4bf26e",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Бизнес и менеджмент.md",
+                "file": "Base/00 Экономика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Бизнес и менеджмент.md"
+                "file": "Base/00 Экономика.md"
               }
             }
           }
@@ -126,15 +127,15 @@
   },
   "active": "107536cc25a33af4",
   "lastOpenFiles": [
+    "Base/00 Экономика.md",
+    "Base/10 Бухгалтерия.md",
+    "Base/Двойная запись.md",
+    "Base/Финансовые модели.md",
     "Base/00 Бизнес и менеджмент.md",
     "Base/Шаблоны для Obsidian.md",
     "Base/Untitled.md",
     "Base/Сценарии (Use Case) — tyter.md",
     "Base/Tyter — приложение для создания историй.md",
-    "Base/JobsToBeDone.md",
-    "Base/00 Методы и инструкции.md",
-    "Base/00 Исследование рынка и аудитории — основы.md",
-    "Base/Версия 2.md",
-    "Base/Сценарий «Такси 6».md"
+    "Base/JobsToBeDone.md"
   ]
 }

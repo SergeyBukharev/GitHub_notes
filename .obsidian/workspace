@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Шаблоны для Obsidian.md",
+            "file": "Base/00 Бизнес и менеджмент.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Шаблоны для Obsidian.md",
+                "file": "Base/00 Бизнес и менеджмент.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Шаблоны для Obsidian.md"
+                "file": "Base/00 Бизнес и менеджмент.md"
               }
             }
           }
@@ -126,6 +126,7 @@
   },
   "active": "107536cc25a33af4",
   "lastOpenFiles": [
+    "Base/00 Бизнес и менеджмент.md",
     "Base/Шаблоны для Obsidian.md",
     "Base/Untitled.md",
     "Base/Сценарии (Use Case) — tyter.md",
@@ -134,7 +135,6 @@
     "Base/00 Методы и инструкции.md",
     "Base/00 Исследование рынка и аудитории — основы.md",
     "Base/Версия 2.md",
-    "Base/Сценарий «Такси 6».md",
-    "Base/00 Сценарий Кино, Игры, Сериала.md"
+    "Base/Сценарий «Такси 6».md"
   ]
 }

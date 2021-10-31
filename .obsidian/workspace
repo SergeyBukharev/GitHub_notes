@@ -4,26 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "107536cc25a33af4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/00 Идеи и инструменты.md",
-            "mode": "source"
+        "id": "3a53b481ed55f3ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "c450b19909f72dcd",
+            "type": "leaf",
+            "dimension": 59.412955465587046,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Сценарии использования и предложения по юзабилити.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "107536cc25a33af4",
+            "type": "leaf",
+            "dimension": 40.58704453441296,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "24b1ed21720edd9f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Текстовые шаблоны в телеге.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -68,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a29b9fa1b4bf26e",
@@ -107,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Идеи и инструменты.md",
+                "file": "Base/Сценарии использования и предложения по юзабилити.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Идеи и инструменты.md"
+                "file": "Base/Сценарии использования и предложения по юзабилити.md"
               }
             }
           }
@@ -136,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "107536cc25a33af4",
+  "active": "c450b19909f72dcd",
   "lastOpenFiles": [
-    "Base/00 Идеи и инструменты.md",
-    "Base/Текстовые шаблоны в телеге.md",
-    "Base/Про скрам.md",
-    "Base/Про буфер обмена.md",
-    "Base/Квант поставки (Quant, Minimum Order Quantity, MOQ).md",
-    "Base/00 Экономика.md",
-    "Base/00 Product Design.md",
-    "Base/00 Пользовательские исследования.md",
-    "Base/00 Исследование рынка и аудитории — основы.md",
-    "Base/MDF (market dominated framework).md"
+    "Base/Сценарии использования и предложения по юзабилити.md",
+    "Base/020 DTLS — редизайн интеренет-каталога.md",
+    "Base/Шаблоны для Obsidian.md",
+    "Base/Всякие идеи и наброски.md",
+    "Base/Главная.md",
+    "Base/Каталог.md",
+    "Base/Карта проекта.md",
+    "Base/Купить - главная форма.md",
+    "Base/Блок Меню.md",
+    "Base/020 Блоки.md"
   ]
 }

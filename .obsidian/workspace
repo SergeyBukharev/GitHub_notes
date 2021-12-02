@@ -4,32 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3a53b481ed55f3ef",
-        "type": "split",
-        "children": [
-          {
-            "id": "c450b19909f72dcd",
-            "type": "leaf",
-            "dimension": 59.412955465587046,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Сценарии использования и предложения по юзабилити.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "107536cc25a33af4",
-            "type": "leaf",
-            "dimension": 40.58704453441296,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+        "id": "c450b19909f72dcd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Сценарий «Такси 6».md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "d0733d3f76df7bf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Сценарий игра Button.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bb623202fb3347a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Цикл сатей MeanWhile - тем временем.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a29b9fa1b4bf26e",
@@ -96,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be3abdc3927331b",
@@ -105,6 +112,7 @@
       {
         "id": "ecd4be6a0d02fdf5",
         "type": "tabs",
+        "dimension": 28.238866396761132,
         "children": [
           {
             "id": "60b76609e3f7ad23",
@@ -112,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Сценарии использования и предложения по юзабилити.md",
+                "file": "Base/Сценарий игра Button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,29 +137,43 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Сценарии использования и предложения по юзабилити.md"
+                "file": "Base/Сценарий игра Button.md"
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "342cf3cc10bf60ac",
+        "type": "tabs",
+        "dimension": 71.76113360323887,
+        "children": [
+          {
+            "id": "107536cc25a33af4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 488
   },
-  "active": "c450b19909f72dcd",
+  "active": "d0733d3f76df7bf8",
   "lastOpenFiles": [
-    "Base/Сценарии использования и предложения по юзабилити.md",
-    "Base/020 DTLS — редизайн интеренет-каталога.md",
-    "Base/Шаблоны для Obsidian.md",
-    "Base/Всякие идеи и наброски.md",
-    "Base/Главная.md",
-    "Base/Каталог.md",
-    "Base/Карта проекта.md",
-    "Base/Купить - главная форма.md",
-    "Base/Блок Меню.md",
-    "Base/020 Блоки.md"
+    "Base/Сценарий игра Button.md",
+    "Base/Сценарий «Такси 6».md",
+    "Base/00 Сценарии.md",
+    "Base/Untitled 1.md",
+    "Base/Сценарий Draft1 — Сценарии.md",
+    "Base/00 Психология.md",
+    "Base/00 Словарик.md",
+    "Base/Цикл сатей MeanWhile - тем временем.md",
+    "Base/Disengagement Rate (DR).md",
+    "Base/00 Интернет-маркетинг.md"
   ]
 }

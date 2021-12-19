@@ -4,35 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c450b19909f72dcd",
+        "id": "0d904e85492618e3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Сценарий «Такси 6».md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d0733d3f76df7bf8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Сценарий игра Button.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bb623202fb3347a2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Цикл сатей MeanWhile - тем временем.md",
-            "mode": "source"
+            "file": "Base/JTBD — JobsToBeDone.md",
+            "mode": "preview"
           }
         }
       }
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Сценарий игра Button.md",
+                "file": "Base/JTBD — JobsToBeDone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Сценарий игра Button.md"
+                "file": "Base/JTBD — JobsToBeDone.md"
               }
             }
           }
@@ -163,17 +141,17 @@
     "direction": "horizontal",
     "width": 488
   },
-  "active": "d0733d3f76df7bf8",
+  "active": "0d904e85492618e3",
   "lastOpenFiles": [
-    "Base/Сценарий игра Button.md",
-    "Base/Сценарий «Такси 6».md",
-    "Base/00 Сценарии.md",
-    "Base/Untitled 1.md",
-    "Base/Сценарий Draft1 — Сценарии.md",
-    "Base/00 Психология.md",
+    "Base/JTBD — JobsToBeDone.md",
+    "Base/00 Product Design.md",
+    "Base/00 Методы и инструкции.md",
     "Base/00 Словарик.md",
-    "Base/Цикл сатей MeanWhile - тем временем.md",
-    "Base/Disengagement Rate (DR).md",
-    "Base/00 Интернет-маркетинг.md"
+    "Base/Мегаломания.md",
+    "Base/Узник совести.md",
+    "Base/00 Идеи и инструменты.md",
+    "Base/Плыли мы по морю, ветер мачту рвал.md",
+    "Base/Примеры от Виталия Фридмена (SmashingMagazine).md",
+    "Base/00 Паттерны.md"
   ]
 }

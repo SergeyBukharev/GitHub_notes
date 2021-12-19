@@ -7,9 +7,11 @@ ___
 
 # Цикл сатей MeanWhile - тем временем
 
-Тем временем...
+ОНО ЕЩЁ И ЭМБЕДИТСЯ
 
-Продолжаю робототь на работках. 
+<iframe id="bc59f593-2ca8-460f-b150-924055c11421" src="https://app.vectary.com/viewer/v1/?model=bc59f593-2ca8-460f-b150-924055c11421&env=studio3" frameborder="0" width="100%" height="480"></iframe>
+
+https://clara.io/view/0a2f2b69-10e5-4bd7-8933-3fde26afb98c
 
 ——
 

@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0d904e85492618e3",
+        "id": "b0feab2dde48f7f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/JTBD — JobsToBeDone.md",
-            "mode": "preview"
+            "file": "Base/Версия 2.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "magnus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JTBD — JobsToBeDone.md",
+                "file": "Base/Версия 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/JTBD — JobsToBeDone.md"
+                "file": "Base/Версия 2.md"
               }
             }
           }
@@ -141,17 +142,17 @@
     "direction": "horizontal",
     "width": 488
   },
-  "active": "0d904e85492618e3",
+  "active": "b0feab2dde48f7f3",
   "lastOpenFiles": [
-    "Base/JTBD — JobsToBeDone.md",
-    "Base/00 Product Design.md",
-    "Base/00 Методы и инструкции.md",
+    "Base/Версия 2.md",
+    "Base/Сценарий «Такси 6».md",
     "Base/00 Словарик.md",
-    "Base/Мегаломания.md",
-    "Base/Узник совести.md",
-    "Base/00 Идеи и инструменты.md",
-    "Base/Плыли мы по морю, ветер мачту рвал.md",
-    "Base/Примеры от Виталия Фридмена (SmashingMagazine).md",
-    "Base/00 Паттерны.md"
+    "Base/Инсайты и идеи— tyter.md",
+    "Base/Tyter — приложение для создания историй.md",
+    "Base/Пользовательские сценарии (UseCase).md",
+    "Base/00 Конспекты.md",
+    "Base/Bridging the Gap Between UX Principles and Game Design.md",
+    "Base/00 Product Design.md",
+    "Base/Такси 6 — Нарративы.md"
   ]
 }

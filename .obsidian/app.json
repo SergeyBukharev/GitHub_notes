@@ -5,5 +5,7 @@
   "newFileFolderPath": "Base",
   "attachmentFolderPath": "Base",
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

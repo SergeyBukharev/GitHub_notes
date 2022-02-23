@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Версия 2.md",
+            "file": "Base/00 Словарик.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Версия 2.md",
+                "file": "Base/00 Словарик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Версия 2.md"
+                "file": "Base/00 Словарик.md"
               }
             }
           }
@@ -144,15 +144,15 @@
   },
   "active": "b0feab2dde48f7f3",
   "lastOpenFiles": [
-    "Base/Версия 2.md",
-    "Base/Сценарий «Такси 6».md",
     "Base/00 Словарик.md",
-    "Base/Инсайты и идеи— tyter.md",
-    "Base/Tyter — приложение для создания историй.md",
-    "Base/Пользовательские сценарии (UseCase).md",
-    "Base/00 Конспекты.md",
-    "Base/Bridging the Gap Between UX Principles and Game Design.md",
-    "Base/00 Product Design.md",
-    "Base/Такси 6 — Нарративы.md"
+    "Base/00 Методы и инструкции.md",
+    "Base/JTBD — JobsToBeDone.md",
+    "Base/AB тестирование.md",
+    "Base/Метод «5 почему».md",
+    "Base/Коридорное тестирование.md",
+    "Base/UX-бенчмаркинг.md",
+    "Base/00 Текущие проекты.md",
+    "Base/Tele2 - тестовое.md",
+    "Base/Идея сервиса на 14 февраля + купон на скидку.md"
   ]
 }

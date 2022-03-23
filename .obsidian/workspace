@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Словарик.md",
+            "file": "Base/00 Интервью.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magnus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a29b9fa1b4bf26e",
@@ -81,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be3abdc3927331b",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Словарик.md",
+                "file": "Base/00 Интервью.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Словарик.md"
+                "file": "Base/00 Интервью.md"
               }
             }
           }
@@ -144,15 +142,15 @@
   },
   "active": "b0feab2dde48f7f3",
   "lastOpenFiles": [
-    "Base/00 Словарик.md",
-    "Base/00 Методы и инструкции.md",
-    "Base/JTBD — JobsToBeDone.md",
-    "Base/AB тестирование.md",
-    "Base/Метод «5 почему».md",
-    "Base/Коридорное тестирование.md",
-    "Base/UX-бенчмаркинг.md",
-    "Base/00 Текущие проекты.md",
-    "Base/Tele2 - тестовое.md",
-    "Base/Идея сервиса на 14 февраля + купон на скидку.md"
+    "Base/00 Интервью.md",
+    "Base/Круговорот Дизайна.md",
+    "Base/Крик Вильгельма.md",
+    "Base/Копирование названия.md",
+    "Base/Когортный анализ.md",
+    "Base/Как я проектировал приложение для сценаристов Tyter.md",
+    "Base/Как выбрать модель для стартапа.md",
+    "Base/Как вести базу знаний проекта или продукта.md",
+    "Base/Интеграция Tilda в Карточку товара интернет-магазина с информацией о товаре.md",
+    "Base/Инсайты и идеи— tyter.md"
   ]
 }

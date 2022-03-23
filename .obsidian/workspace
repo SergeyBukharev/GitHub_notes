@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Интервью.md",
+            "file": "Base/00 Паттерны.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Интервью.md",
+                "file": "Base/00 Паттерны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Интервью.md"
+                "file": "Base/00 Паттерны.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "b0feab2dde48f7f3",
   "lastOpenFiles": [
+    "Base/00 Паттерны.md",
+    "Base/00 Видео, кино, игры.md",
+    "Base/00 Бихевиоризм.md",
     "Base/00 Интервью.md",
+    "Base/00 Книжки.md",
     "Base/Круговорот Дизайна.md",
     "Base/Крик Вильгельма.md",
     "Base/Копирование названия.md",
     "Base/Когортный анализ.md",
-    "Base/Как я проектировал приложение для сценаристов Tyter.md",
-    "Base/Как выбрать модель для стартапа.md",
-    "Base/Как вести базу знаний проекта или продукта.md",
-    "Base/Интеграция Tilda в Карточку товара интернет-магазина с информацией о товаре.md",
-    "Base/Инсайты и идеи— tyter.md"
+    "Base/Как я проектировал приложение для сценаристов Tyter.md"
   ]
 }

@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Паттерны.md",
+            "file": "Base/00 Сценарии.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b4d34fc0fa5fd6c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Сценарий Draft1 — Сценарии.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "как заплачено",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Паттерны.md",
+                "file": "Base/Сценарий Draft1 — Сценарии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Паттерны.md"
+                "file": "Base/Сценарий Draft1 — Сценарии.md"
               }
             }
           }
@@ -140,17 +152,17 @@
     "direction": "horizontal",
     "width": 488
   },
-  "active": "b0feab2dde48f7f3",
+  "active": "b4d34fc0fa5fd6c4",
   "lastOpenFiles": [
-    "Base/00 Паттерны.md",
-    "Base/00 Видео, кино, игры.md",
-    "Base/00 Бихевиоризм.md",
-    "Base/00 Интервью.md",
-    "Base/00 Книжки.md",
-    "Base/Круговорот Дизайна.md",
-    "Base/Крик Вильгельма.md",
-    "Base/Копирование названия.md",
-    "Base/Когортный анализ.md",
-    "Base/Как я проектировал приложение для сценаристов Tyter.md"
+    "Base/Сценарий Draft1 — Сценарии.md",
+    "Base/00 Сценарии.md",
+    "Base/Сценарии — tyter.md",
+    "Base/00 Систематизация.md",
+    "Base/00 Консисистентность.md",
+    "Base/00 Симиотика.md",
+    "Base/Повторяемость и редуцируемость.md",
+    "Base/Консис.md",
+    "Base/00 Словарик.md",
+    "Base/00 Паттерны.md"
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0a8ab01f973a1064",
+        "id": "7ec6162d8cbebfa5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -140,17 +140,17 @@
     "direction": "horizontal",
     "width": 488
   },
-  "active": "0a8ab01f973a1064",
+  "active": "7ec6162d8cbebfa5",
   "lastOpenFiles": [
     "Base/00 Словарик.md",
+    "Base/00 Порядок.md",
+    "Base/00 Product Design.md",
+    "Base/00 Бихевиоризм.md",
+    "Base/Эксперимент (Маленький Альберт).md",
+    "Base/7 гипотез для проверки успеха нового продукта или фичи.md",
+    "Base/Интерфейс и взаимодействие (GUI-UX).md",
+    "Base/СМД-методология.md",
     "Base/Ультраверс.md",
-    "Base/00 Сценарии.md",
-    "Base/Мокьментари интервью.md",
-    "Base/Вложенные истории.md",
-    "Base/Версия 2.md",
-    "Base/Сценарий «Такси 6».md",
-    "Base/Сценарий Draft1 — Сценарии.md",
-    "Base/Сценарии — tyter.md",
-    "Base/00 Систематизация.md"
+    "Base/00 Сценарии.md"
   ]
 }
